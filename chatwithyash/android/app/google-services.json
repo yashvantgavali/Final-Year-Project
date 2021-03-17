@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "958791710598",
+    "project_id": "final-year-project-b4812",
+    "storage_bucket": "final-year-project-b4812.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958791710598:android:642c0c7e24db92c9a05e07",
+        "android_client_info": {
+          "package_name": "com.example.chatwithyash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958791710598-rlumafjpupcch6sr3m1l4a9pd8k3knoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA58JDbeZC1kP5h44lBsaJoRpSGKrqvcNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958791710598-rlumafjpupcch6sr3m1l4a9pd8k3knoe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
